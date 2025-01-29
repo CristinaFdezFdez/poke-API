@@ -1,1 +1,1 @@
-<img src="img/poke-api.png" alt="poke-api" />
+![poke-api](img/poke-api.png)
